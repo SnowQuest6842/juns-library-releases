@@ -10,7 +10,9 @@ Windows용 논문 라이브러리 · 연구 지도 · PDF 읽기 및 AI 분석
 [최신 버전 다운로드](https://github.com/SnowQuest6842/juns-library-releases/releases/latest)
 
 Release의 `JunsLibrary-버전-Setup-x64.exe`를 내려받아 실행하세요.
-Windows 11 x64와 Microsoft Edge WebView2가 필요합니다. 필요한 구성 요소는 설치 중 확인합니다.
+v1.0.1부터 Windows 10 22H2(빌드 19045) x64 및 Windows 11에서 같은 설치 파일을 사용합니다.
+Python과 필요한 Python 라이브러리는 설치 파일에 포함되어 있어 별도로 설치할 필요가 없습니다.
+Microsoft Edge WebView2와 Visual C++ 실행 환경은 설치 중 확인하며, WebView2가 없으면 인터넷 연결이 필요합니다.
 기존 사용자는 앱을 종료하고 설치하면 논문과 기록을 유지하며 업데이트됩니다.
 
 ## 앱 내 업데이트
