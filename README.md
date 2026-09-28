@@ -1,2 +1,26 @@
-# juns-library-releases
-Jun's Library — Windows installers and release notes
+# Jun's Library
+
+Windows용 논문 라이브러리 · 연구 지도 · PDF 읽기 및 AI 분석
+
+이 저장소는 설치 파일과 변경 내역을 배포하는 공개 저장소입니다.
+사용자의 논문, DB, 개인 기록, API 키는 포함하지 않습니다.
+
+## 설치
+
+[최신 버전 다운로드](https://github.com/SnowQuest6842/juns-library-releases/releases/latest)
+
+Release의 `JunsLibrary-버전-Setup-x64.exe`를 내려받아 실행하세요.
+Windows 11 x64와 Microsoft Edge WebView2가 필요합니다. 필요한 구성 요소는 설치 중 확인합니다.
+기존 사용자는 앱을 종료하고 설치하면 논문과 기록을 유지하며 업데이트됩니다.
+
+## 앱 내 업데이트
+
+v0.5.4부터 앱 시작 시 한 번 최신 버전을 확인합니다. 사용하는 동안 주기적으로 확인하지 않습니다.
+새 버전이 있으면 다운로드 후 **설치 후 다시 열기**를 선택할 수 있습니다.
+Program Files에 설치한 경우 Windows 관리자 승인이 필요할 수 있습니다.
+진행 중인 논문 분석·등록·저장 작업은 종료한 뒤 설치하세요.
+새 버전이 정상 실행되면 앱이 받은 설치 파일을 삭제합니다.
+브라우저로 직접 내려받은 설치 파일은 사용자가 관리합니다.
+
+앱을 제거해도 논문·DB·개인 기록은 보존됩니다.
+AI 기능에는 사용자가 설정한 API 연결이 필요합니다.
